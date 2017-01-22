@@ -1,2 +1,2 @@
 # rubythehardway
-For storing progress on "Learning Ruby the Hard Way"
+For storing progress on "Learn Ruby the Hard Way"
